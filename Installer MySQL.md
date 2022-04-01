@@ -10,19 +10,17 @@ wget http://repo.mysql.com/mysql-apt-config_0.8.13-1_all.deb
 apt install ./mysql-apt-config_0.8.13-1_all.deb
 ```
 
-![](C:\Users\thejo\AppData\Roaming\marktext\images\2022-04-01-15-38-31-image.png)
+![Image1](https://raw.githubusercontent.com/TheJordanDev/Tutoriels/main/assets/mysql/image1.png)
 
-![](C:\Users\thejo\AppData\Roaming\marktext\images\2022-04-01-15-38-45-image.png)
+![](https://raw.githubusercontent.com/TheJordanDev/Tutoriels/main/assets/mysql/image2.png)
 
 > Choisissez la version mysql-5.7 (une version recente qui marche bien)
 
-![](C:\Users\thejo\AppData\Roaming\marktext\images\2022-04-01-15-38-58-image.png)
+![](https://raw.githubusercontent.com/TheJordanDev/Tutoriels/main/assets/mysql/image3.png)
 
-![](C:\Users\thejo\AppData\Roaming\marktext\images\2022-04-01-15-39-13-image.png)
+![](https://raw.githubusercontent.com/TheJordanDev/Tutoriels/main/assets/mysql/image4.png)
 
 > Après un peu de téléchargement vous allez revoir ce menu, refaites OK
-
-
 
 > Il faut maintenant mettre à jour la machine (avant il faut définir une clé pour le téléchargement)
 
@@ -39,7 +37,7 @@ apt install -y mysql-server
 
 > Vous allez devoir choisir un mot de passe pour l'utilisateur <u>root </u>pour MySQL. (Il faut l'entrer 2 fois)
 
-![](C:\Users\thejo\AppData\Roaming\marktext\images\2022-04-01-15-40-26-image.png)
+![](https://raw.githubusercontent.com/TheJordanDev/Tutoriels/main/assets/mysql/image5.png)
 
 > Pour vous connecter en <u>root</u> il faut faire.
 
@@ -48,5 +46,3 @@ mysql -u root -p
 ```
 
 > Et entrez le mot de passe pour root
-
-
