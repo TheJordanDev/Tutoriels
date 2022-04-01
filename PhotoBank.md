@@ -1,3 +1,6 @@
+# Pour utiliser ce script il faut installer MySQL et non MariaDB
+
+### Allez voir le [tuto MySQL](https://github.com/TheJordanDev/Tutoriels/blob/main/Installer%20MySQL.md) si vous ne l'avez pas !
 > D'abord, il faut faire les tables.
 
 ```sql
