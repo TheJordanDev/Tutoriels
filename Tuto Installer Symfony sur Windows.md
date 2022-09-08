@@ -9,7 +9,7 @@
         <li><a href="#symfony-cli">Symfony CLI</a></li>
         <li><a href="#composer">Composer</a></li>
         <li><a href="#git">Git</a></li>
-        <li><a href="#end">Finalement</a></li>
+        <li><a href="#end">Lancement</a></li>
     </ul>
 </details>
 
@@ -88,6 +88,18 @@ scoop install symfony-cli
 > Si vous n'avez pas d'erreur c'est ici
 > </a>
 
+> Pour régler cette erreur il va falloir télécharger des composants Microsoft supplémentaires. [ICI](https://visualstudio.microsoft.com/fr/downloads/)
+> 
+> Allez jusqu'à "Autres outils, infrastructure et redistribuables"
+
+![](./assets/symfony_windows/step_7.png)
+
+> Une fois installé, exécutez le fichier
+
+![](./assets/symfony_windows/step_8.png)
+
+> Une fois l'installation terminée vous allez devoir redémarrer votre ordinateur
+
 ---
 
 <h1 align="center"><a id="git">Git</a></h1>
@@ -96,7 +108,7 @@ scoop install symfony-cli
 
 > Pour installer git allez sur [git-scm.com](https://git-scm.com/downloads) choisissez Windows
 
-![](./assets/symfony_windows/step_7.png)
+![](./assets/symfony_windows/_step_7.png)
 
 > Choisissez en fonction de votre ordinateur
 
@@ -111,19 +123,19 @@ git config --global user.email "Votre E-Mail"
 
 ---
 
-<h1 align="center"><a id="end">Finalement</a></h1>
+<h1 align="center"><a id="end">Lancement</a></h1>
 
 > Une fois avoir fini, il vous faut maintenant un dossier où stocker vos projets Symfony. Je vous conseil de faire un dossier dans Documents nommé "Symfony". Pour ouvrir une Invite de commande dans un dossier vous avez deux choix, dépendant de votre version de Windows.
 
 Windows 10
 
-![](./assets/symfony_windows/step_8.png)
+![](./assets/symfony_windows/_step_8.png)
 
 Windows 11
 
 > Faites clique droit sur le dossier "Symfony" et cliquez sur Ouvrir dans Windows Terminal
 
-![](./assets/symfony_windows/step_9.png)
+![](./assets/symfony_windows/_step_9.png)
 
 > Il ne vous reste plus qu'à initialiser votre projet
 
