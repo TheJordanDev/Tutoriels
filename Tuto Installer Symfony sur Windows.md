@@ -108,7 +108,7 @@ scoop install symfony-cli
 
 > Pour installer git allez sur [git-scm.com](https://git-scm.com/downloads) choisissez Windows
 
-![](./assets/symfony_windows/_step_7.png)
+![](./assets/symfony_windows/step_9.png)
 
 > Choisissez en fonction de votre ordinateur
 
@@ -129,13 +129,13 @@ git config --global user.email "Votre E-Mail"
 
 Windows 10
 
-![](./assets/symfony_windows/_step_8.png)
+![](./assets/symfony_windows/step_10.png)
 
 Windows 11
 
 > Faites clique droit sur le dossier "Symfony" et cliquez sur Ouvrir dans Windows Terminal
 
-![](./assets/symfony_windows/_step_9.png)
+![](./assets/symfony_windows/step_11.png)
 
 > Il ne vous reste plus qu'à initialiser votre projet
 
