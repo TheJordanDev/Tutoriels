@@ -80,13 +80,12 @@ scoop install symfony-cli
 
 > Une fois téléchargé, exécutez le et installer le.
 
-> Si après avoir choisis PHP vous avez une erreur. Sinon continuez [ici](#no_phperror_composer).
+> Si après avoir choisis PHP vous n'avez pas d'erreur continuez le téléchargement et cliquez [ici](#git). Sinon si votre erreur est celle ci-dessous continuez.
 
 ![](./assets/symfony_windows/step_6.png)
 
-> <a id="no_phperror_composer">
-> Si vous n'avez pas d'erreur c'est ici
-> </a>
+> 
+> 
 
 > Pour régler cette erreur il va falloir télécharger des composants Microsoft supplémentaires. [ICI](https://visualstudio.microsoft.com/fr/downloads/)
 > 
