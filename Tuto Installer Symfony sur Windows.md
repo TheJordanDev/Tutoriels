@@ -1,7 +1,5 @@
 > <h1 align="center">Symfony sur Windows</h1>
 
-> Pour commencer il vous faut PHP, si vous n'avez pas PHP ou alors si votre version de PHP est inférieure à PHP 8, suivez les étapes suivantes. Sinon allez [ici](#symfony-cli).
-
 <h3>Sommaire</h3>
 
 <details>
@@ -18,6 +16,8 @@
 ---
 
 <h1 align="center"><a id="php">PHP</a></h1>
+
+> Pour commencer il vous faut PHP, si vous n'avez pas PHP ou alors si votre version de PHP est inférieure à PHP 8, suivez les étapes suivantes. Sinon allez [ici](#symfony-cli).
 
 > Allez sur [php.net](https://php.net) et cliquez sur "Download"
 
