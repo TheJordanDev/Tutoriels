@@ -17,8 +17,8 @@ apt update -y
 ```
 
 ```shell
-apt install php8.0 -y
-apt install php8.0-{mysql,cli,common,imap,ldap,xml,fpm,curl,mbstring,zip} unzip -y
+apt install php8.1 -y
+apt install php8.1-{mysql,cli,common,imap,ldap,xml,fpm,curl,mbstring,zip} unzip -y
 ```
 
 > Installer composer *si l'instalation ne marche pas car "Installer corrupt" n'exécutez juste pas la deuxime ligne est tout ira bien*
